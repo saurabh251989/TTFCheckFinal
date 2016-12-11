@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sfcc</groupId>
-	<artifactId>TTFCheckFinal</artifactId>
+	<artifactId>TTFCheck</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -79,7 +79,7 @@
 									<mainClass>com.sfcc.ttf.TTFCheck</mainClass>
 								</manifest>
 							</archive>
-							<finalName>TTFCheckFinal</finalName>
+							<finalName>TTFCheck</finalName>
 
 						</configuration>
 					</execution>
